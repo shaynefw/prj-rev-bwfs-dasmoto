@@ -1,0 +1,30 @@
+html {
+  font-family: verdana;
+}
+.header {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  color: khaki; /*I used https://www.w3schools.com/cssref/css_colors.asp to find color khaki*/
+  font-size: 150px; /*i know its chunky, but i wanted it to fit to my 1920x1080 monitor*/
+  text-align: center;
+}
+.brushes {
+  background-color: turquoise;
+}
+.frames {
+  background-color: salmon;
+}
+h2 {
+  color: white;
+  font-size: 40px;
+}
+.paint {
+  background-color: skyblue;
+}
+span {
+  color: blue;
+  font-weight: bold;
+}
+.name {
+  text-align: center;
+  font-size: 10px;
+}
